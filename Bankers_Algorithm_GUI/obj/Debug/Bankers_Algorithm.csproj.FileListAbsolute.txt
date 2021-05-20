@@ -1,0 +1,10 @@
+C:\Users\ah132\source\repos\Bankers_Algorithm\bin\Debug\Bankers_Algorithm.exe.config
+C:\Users\ah132\source\repos\Bankers_Algorithm\bin\Debug\Bankers_Algorithm.exe
+C:\Users\ah132\source\repos\Bankers_Algorithm\bin\Debug\Bankers_Algorithm.pdb
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Debug\Bankers_Algorithm.csprojAssemblyReference.cache
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Debug\Bankers_Algorithm.Form1.resources
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Debug\Bankers_Algorithm.Properties.Resources.resources
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Debug\Bankers_Algorithm.csproj.GenerateResource.cache
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Debug\Bankers_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Debug\Bankers_Algorithm.exe
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Debug\Bankers_Algorithm.pdb

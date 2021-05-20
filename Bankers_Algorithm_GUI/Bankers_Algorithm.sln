@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankers_Algorithm", "Bankers_Algorithm.csproj", "{FFF464A8-EC9D-4C4B-A4FF-9F0A5BA4F117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF464A8-EC9D-4C4B-A4FF-9F0A5BA4F117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF464A8-EC9D-4C4B-A4FF-9F0A5BA4F117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF464A8-EC9D-4C4B-A4FF-9F0A5BA4F117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF464A8-EC9D-4C4B-A4FF-9F0A5BA4F117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D56DD155-5857-4F66-8837-C5C3E27334A4}
+	EndGlobalSection
+EndGlobal
